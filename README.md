@@ -4,7 +4,9 @@
 🎓 Técnica em Desenvolvimento de Sistemas (SENAI)  
 🚀 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
 
-## 🛠️ Tecnologias e Ferramentas
+---
+
+🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
