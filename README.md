@@ -4,8 +4,6 @@
 🎓 Técnica em Desenvolvimento de Sistemas (SENAI)  
 🚀 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -33,6 +31,6 @@
        src="https://raw.githubusercontent.com/AnacNvaes/AnacNvaes/output/pacman-contribution-graph.svg">
 </picture>
 
----
+###
 
 ✨ *“Transformando ideias em código e soluções em experiências.”*
