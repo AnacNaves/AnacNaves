@@ -24,8 +24,6 @@
 
 ---
 
-## 🎮 Atividade de Contribuições
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/AnacNvaes/AnacNvaes/output/pacman-contribution-graph-dark.svg">
