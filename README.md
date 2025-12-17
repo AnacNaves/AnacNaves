@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
 </div>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/AnacNvaes/AnacNvaes/output/pacman-contribution-graph-dark.svg">
