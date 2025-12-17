@@ -6,15 +6,6 @@
 
 ---
 
-## 🌟 Sobre mim
-
-Sou a Ana, desenvolvedora front-end focada na criação de interfaces modernas, responsivas e funcionais.  
-Possuo formação técnica em **Desenvolvimento de Sistemas pelo SENAI** e experiência com **JavaScript, React, HTML e CSS**.
-
-Estou sempre buscando evoluir profissionalmente, aprender novas tecnologias e desenvolver projetos que gerem impacto positivo.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -32,17 +23,6 @@ Estou sempre buscando evoluir profissionalmente, aprender novas tecnologias e de
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=AnacNvaes&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnacNvaes&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🎮 Atividade de Contribuições
 
 <picture>
@@ -53,27 +33,6 @@ Estou sempre buscando evoluir profissionalmente, aprender novas tecnologias e de
   <img alt="Gráfico de contribuições Pacman"
        src="https://raw.githubusercontent.com/AnacNvaes/AnacNvaes/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 🌱 Atualmente estudando
-
-- JavaScript avançado  
-- Ecossistema React  
-- Boas práticas de UI/UX  
-
----
-
-## 📫 Entre em contato comigo
-
-<div>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
 
 ---
 
