@@ -2,6 +2,7 @@
 
 💻 Desenvolvedora Front-end | JavaScript | React  
 🎓 Técnica em Desenvolvimento de Sistemas (SENAI)  
+🎓 Cursando Engenharia de SoftWare (UNAERP)
 🚀 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
 
 ---
