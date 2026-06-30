@@ -1,8 +1,7 @@
 # Olá! 👋 Eu sou a Ana
 
 💻 Desenvolvedora Front-end | JavaScript | React  
-🎓 Técnica em Desenvolvimento de Sistemas (SENAI)  
-🎓 Cursando Engenharia de SoftWare (UNAERP)
+🎓 Técnica em Desenvolvimento de Sistemas (SENAI) e Cursando Engenharia de SoftWare (UNAERP)
 🚀 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
 
 ---
