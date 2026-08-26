@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou a Ana
 
-💻 Desenvolvedora Front-end | JavaScript | React  
+💻 Desenvolvedora de SoftWare na TOTVS 
 🎓 Técnica em Desenvolvimento de Sistemas (SENAI) e Cursando Engenharia de SoftWare (UNAERP)
 🚀 Apaixonada por tecnologia, criatividade e aprendizado contínuo  
 
